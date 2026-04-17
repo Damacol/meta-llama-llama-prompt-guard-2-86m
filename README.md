@@ -1,4 +1,4 @@
-# meta-llama/Llama-Prompt-Guard-2-86M - Private, Uncensored AI for Real Creators and Devs
+# meta-llama/Llama-Prompt-Guard-2-86M  - Private, Uncensored AI for Real Creators and Devs
 
 > Tired of AI that babysits you, logs your prompts, or hits you with "I can't do that"?
 > Meet the next-gen chatbot built for freedom, speed, and digital sovereignty.
